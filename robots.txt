@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://begelion.github.io/sitemap.html.gz
+Sitemap: https://begelion.github.io/app/sitemap.html.gz
+Sitemap: https://begelion.github.io/assets/sitemap.html.gz
+Sitemap: https://begelion.github.io/css/sitemap.html.gz
+Sitemap: https://begelion.github.io/data/sitemap.html.gz
+Sitemap: https://begelion.github.io/includes/sitemap.html.gz
+Sitemap: https://begelion.github.io/item/sitemap.html.gz
+Sitemap: https://begelion.github.io/src/sitemap.html.gz
